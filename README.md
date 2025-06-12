@@ -1,6 +1,6 @@
 ## Project info
 
-**URL**: [https://lovable.dev/projects/bfbcd21c-7d0e-4793-b4f6-9c7a59f7cc72](https://stockpricepred.netlify.app/)
+**URL**: https://stockpricepred.netlify.app/
 Follow these steps:
 
 ```sh
